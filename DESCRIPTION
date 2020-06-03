@@ -1,0 +1,24 @@
+Package: CEB
+Type: Package
+Title: CEB: a celltypes identify platform for single-cell multi-omic data
+Version: 0.1.0
+Author: Xue Hang
+Maintainer: Xue Hang <xd13070310001@126.com>
+Description: 
+CEB, a package for the integration of single-cell multi-omics data for celltype identification.
+In CEB, we use four state-of-the-art cell-type identification methods to obtain the base partitions of single-cell multi-omics data, and then they are integrated  by CSPA to obtain the final cell-type results.
+CEB allows users to cluster the data with different clustering methods, and it is able to integrate single-cell multi-omics data.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+    mclust,
+    fpc,
+    vegan,
+    apcluster,
+    factoextra,
+    ADPclust,
+    SC3,
+    SingleCellExperiment,
+    Rtsne,
+    kernlab,

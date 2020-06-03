@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: CEB\nType: Package\nTitle: CEB: a celltypes identify platform for single-cell multi-omic data\nVersion: 0.1.0\nAuthor: Xue Hang\nMaintainer: Xue Hang <xd13070310001@126.com>\nDescription: \nCEB, a package for the integration of single-cell multi-omics data for celltype identification.\nIn CEB, we use four state-of-the-art cell-type identification methods to obtain the base partitions of single-cell multi-omics data, and then they are integrated  by CSPA to obtain the final cell-type results.\nCEB allows users to cluster the data with different clustering methods, and it is able to integrate single-cell multi-omics data.\nLicense: GPL-2\nEncoding: UTF-8\nLazyData: true\nImports:\n    mclust,\n    fpc,\n    vegan,\n    apcluster,\n    factoextra,\n    ADPclust,\n    SC3,\n    SingleCellExperiment,\n    Rtsne,\n    kernlab,\n",
+    "created" : 1590549785433.000,
+    "dirty" : false,
+    "encoding" : "CP936",
+    "folds" : "",
+    "hash" : "2619441645",
+    "id" : "7944832F",
+    "lastKnownWriteTime" : 1590545536,
+    "last_content_update" : 1590545536,
+    "path" : "D:/R_work/CEB/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: TestPackage2\nType: Package\nTitle: What the Package Does (Title Case)\nVersion: 0.1.0\nAuthor: Who wrote it\nMaintainer: The package maintainer <yourself@somewhere.net>\nDescription: More about what it does (maybe more than one line)\n    Use four spaces when indenting paragraphs within the Description.\nLicense: What license is it under?\nEncoding: UTF-8\nLazyData: true",
+    "created" : 1590546837284.000,
+    "dirty" : false,
+    "encoding" : "CP936",
+    "folds" : "",
+    "hash" : "324641579",
+    "id" : "A8C89B47",
+    "lastKnownWriteTime" : 1590544921,
+    "last_content_update" : 1590544921,
+    "path" : "D:/R_work/TestPackage2/DESCRIPTION",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
